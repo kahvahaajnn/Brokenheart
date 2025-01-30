@@ -4,9 +4,9 @@ default_admins = [
     (1, '1662672529', 1),
 ]
 token = '7819992909:AAHfbmckp2vxVRCmu9hhFq42q_hWZfvu1HM'
-bot_name = '@GODXCHEAT1BOT'
+bot_name = '@Godxcheat1bot'
 bot_username = '@Godxcheat1bot'
-owner_username = '@GODXALONEBOY'
+owner_username = '@GODxAloneBOY'
 channel_username = '@gghvwtt6626'
 
 def initialize_db():
